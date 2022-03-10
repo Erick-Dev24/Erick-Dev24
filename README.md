@@ -26,5 +26,5 @@ Eu sou natural do Brasil do estado de Pernambuco e atualmente (2022) tenho 24 an
   </div>
   
 
-  
+ 
   
