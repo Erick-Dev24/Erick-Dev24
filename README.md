@@ -2,8 +2,8 @@
 Eu sou natural do Brasil do estado de Pernambuco e atualmente (2022) tenho 24 anos!
 - 👀 Eu sou desenvolvedor de software iniciante
 - ✔️ Atualmente estudo HTML e CSS <p>
--✔️Sou estudante TÉCNICO de Ánalise e Desenvolvimento de Sistemas (3/3) <p>
--Futuro Estudante de Engenharia de Software <p>
+- 👀 Estudante TÉCNICO em Análise e Desenvolvimento de Sistemas (3/3) <p>
+- ✔️ Futuro Engenheiro de Software <p>
 <div align="center">
   <a href="https://github.com/Erick-Dev24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Dev24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
