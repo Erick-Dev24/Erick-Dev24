@@ -1,15 +1,30 @@
-## 👋 Olá! Eu sou o Erick Vieira!
-Eu sou natural do Brasil do estado de Pernambuco e atualmente (2022) tenho 24 anos!
-- 👀 Eu sou desenvolvedor de software iniciante
-- ✔️ Atualmente estudo HTML e CSS <p>
-- 👀 Estudante TÉCNICO em Análise e Desenvolvimento de Sistemas (3/3) <p>
-- ✔️ Futuro Engenheiro de Software <p>
-<div align="center">
-  <a href="https://github.com/Erick-Dev24">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Dev24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Dev24&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
 </div>
+
+<br><br>
+
+  <img align = "right" width = "450px"  src = "https://user-images.githubusercontent.com/92947069/154335053-22a28e51-b6a5-4c86-97ff-a39511b37672.gif">
+
+
+  <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
+
+  <hr>
+  💻 Atualmente me aperfeiçoando na área de Desenvolvimento Full-Stack📚
+
+  🥰 Amo cinema, games, programar e criar 🤩
+
+  😤 Sou um cara bem determinado com as minhas <br> responsabilidades, levo muito a sério 🤯
+
+  🤔 Gosto de estudar aquilo que tenho me chama a atenção...<br> e fico extremamente feliz que programação é uma delas 😅
+
+  🎮 Amo jogar video game, e Red Dead Redemption 2 é o melhor jogos de todos os tempos 💖
+ 
+  <hr>
   
+  <img height = "100px" src = "https://user-images.githubusercontent.com/92947069/183309444-40054815-7603-4409-b613-603095a0e7d2.gif" >
+  
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
