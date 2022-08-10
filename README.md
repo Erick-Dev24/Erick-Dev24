@@ -12,13 +12,13 @@
   <hr>
   💻 Atualmente me aperfeiçoando na área de Desenvolvimento Full-Stack📚
 
-  🥰 Amo cinema, games, programar e criar 🤩
+  🥰 Amo cinema (Western é perfeito), games, programar e criar 🤩
 
   😤 Sou um cara bem determinado com as minhas <br> responsabilidades, levo muito a sério 🤯
 
   🤔 Gosto de estudar aquilo que tenho me chama a atenção...<br> e fico extremamente feliz que programação é uma delas 😅
 
-  🎮 Amo jogar video game, e Red Dead Redemption 2 é o melhor jogos de todos os tempos 💖
+  🎮 Amo jogar video game, e Red Dead Redemption 2 é o melhor jogos de todos os tempos (Já deu pra perceber que amo Western né?) 💖
  
   <hr>
   
