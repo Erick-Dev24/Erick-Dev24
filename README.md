@@ -8,9 +8,9 @@
   <img align ="center" height = "100px" src="https://user-images.githubusercontent.com/101227282/188983614-8d8d32ce-3128-45aa-8276-05e873661df8.gif"/>
 
 <hr>
-  💻 Atualmente tenho 24 anos estudante técnico em Análise e Desenvolvimento de Sistemas <br> e estou me aperfeiçoando em HTML e CSS e aprendendo Python e JavaScript📚
+  💻 Atualmente tenho 24 anos estudante técnico em Análise e Desenvolvimento de Sistemas <br> e estou me aperfeiçoando em HTML e CSS e aprendendo Python e JavaScript📚<br>
 
-  🥰 Amo filmes, músicas, games e absolutamente tudo sobre a tématica Cyberpunk🤩
+  <br>🥰 Amo filmes, músicas, games e absolutamente tudo sobre a tématica Cyberpunk🤩
 
   😤 Sou uma pessoa bem focada com as minhas <br> responsabilidades, levo muito a sério 🤯
 
