@@ -1,4 +1,23 @@
-## Olá, Mundo! Sou Erick Vieira! Desenvolvedor Full-Stack!
+<div align="center">
+<img height = "140px" src = "https://user-images.githubusercontent.com/101227282/188983270-c08ed3dc-b4e2-4a9f-84eb-d6875825b406.gif">
+</div>
+<br><br>
+
+<img align = "right" width = "450px"  src ="https://user-images.githubusercontent.com/101227282/188925185-a0a4cfb2-c24f-42af-9fba-4a81f3a51f47.gif">
+
+  <img height = "100px" src="https://user-images.githubusercontent.com/101227282/188983614-8d8d32ce-3128-45aa-8276-05e873661df8.gif"/>
+
+<hr>
+  💻 Atualmente me aperfeiçoando em HTML e CSS e aprendendo Python e JavaScript📚
+
+  🥰 Amo filmes, músicas, games🤩
+
+  😤 Sou uma pessoa bem focada com as minhas <br> responsabilidades, levo muito a sério 🤯
+
+  🤔 Amo estudar tudo da área de tecnologia...<br> principalmente programação que é o que mais estudo no momento 😅
+
+  🎮 Amo jogar video game, mas minha paixão está na sétima arte principalmente Western e minha série favorita é Breaking Bad, The Office e True Detective 💖
+  <hr>
 <div align="center">
   <a href="https://github.com/Erick-Dev24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erick-dev24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
