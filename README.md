@@ -5,18 +5,18 @@
 
 <img align = "right" width = "300px"  src ="https://user-images.githubusercontent.com/101227282/188989480-21003453-205f-4b6e-885d-b0b5d2d2e314.gif">
 
-  <img height = "100px" src="https://user-images.githubusercontent.com/101227282/188983614-8d8d32ce-3128-45aa-8276-05e873661df8.gif"/>
+  <img align ="center" height = "100px" src="https://user-images.githubusercontent.com/101227282/188983614-8d8d32ce-3128-45aa-8276-05e873661df8.gif"/>
 
 <hr>
-  💻 Atualmente me aperfeiçoando em HTML e CSS e aprendendo Python e JavaScript📚
+  💻 Atualmente tenho 24 anos estudante técnico em Análise e Desenvolvimento de Sistemas <br> e estou me aperfeiçoando em HTML e CSS e aprendendo Python e JavaScript📚
 
-  🥰 Amo filmes, músicas, games🤩
+  🥰 Amo filmes, músicas, games e absolutamente tudo sobre a tématica Cyberpunk🤩
 
   😤 Sou uma pessoa bem focada com as minhas <br> responsabilidades, levo muito a sério 🤯
 
   🤔 Amo estudar tudo da área de tecnologia...<br> principalmente programação que é o que mais estudo no momento 😅
 
-  🎮 Amo jogar video game, mas minha paixão está na sétima arte principalmente Western e minha série favorita é Breaking Bad, The Office e True Detective 💖
+  🎮 Amo jogar video game Read Dead Redepmtion 2 é uma obra-prima...<br> mas minha paixão está na sétima arte principalmente Western e minha série favorita é Breaking Bad, The Office e True Detective 💖
   <hr>
 <div align="center">
   <a href="https://github.com/Erick-Dev24">
